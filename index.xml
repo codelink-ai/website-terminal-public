@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CodeLink Consulting - Infinity is our limit</title>
+    <link>http://example.org/</link>
+    <description>Recent content on CodeLink Consulting - Infinity is our limit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/description/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/description/</guid>
+      <description>CodeLink Consulting Infinity is our limit
+We are a team of passionate
+designers, software engineers, data scientists, and devops engineers, taking your great ideas into products in the most reliable and timely fashion.</description>
+    </item>
+    
+  </channel>
+</rss>
